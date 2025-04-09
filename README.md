@@ -1,12 +1,12 @@
 # Amazon Clone
 
 # libraries 
-vector-icons
-native-stack
-linear-gradient
-react-native-screens
-react-native-swiper
-react-native-safe-area-context
+- vector-icons
+- native-stack
+- linear-gradient
+- react-native-screens
+- react-native-swiper
+- react-native-safe-area-context
 
 
 
